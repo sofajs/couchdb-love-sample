@@ -1,0 +1,23 @@
+{
+  "name": "sample-uudata",
+  "version": "0.0.1",
+  "description": "user data logic",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sofajs/couchdb-love-sample.git"
+  },
+  "keywords": [
+    "couchdb-love",
+    "sample"
+  ],
+  "author": "Jon Swenson",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/sofajs/couchdb-love-sample/issues"
+  },
+  "homepage": "https://github.com/sofajs/couchdb-love-sample#readme"
+}
