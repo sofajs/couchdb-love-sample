@@ -4,6 +4,7 @@
   "description": "user data logic",
   "main": "lib/index.js",
   "scripts": {
+    "start": "node ./lib/index.js",
     "test": "test"
   },
   "repository": {
@@ -19,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/sofajs/couchdb-love-sample/issues"
   },
-  "homepage": "https://github.com/sofajs/couchdb-love-sample#readme"
+  "homepage": "https://github.com/sofajs/couchdb-love-sample#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "couchdb-love": "0.0.1"
+  }
 }
